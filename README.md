@@ -1,2 +1,2 @@
 # PHP
-for the middle tes, i share he code from anonymous
+for the middle tes, i share the code from anonymous
